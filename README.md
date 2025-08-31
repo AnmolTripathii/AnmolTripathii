@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoltripathii&label=Profile%20views&color=0e75b6&style=flat" alt="anmoltripathii" /> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio1-chi-lime.vercel.app/](https://portfolio1-chi-lime.vercel.app/)
 
