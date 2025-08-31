@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anmol Tripathi</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anmol Tripathi [ZEN]</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoltripathii&label=Profile%20views&color=0e75b6&style=flat" alt="anmoltripathii" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://portfolio1-chi-lime.vercel.app/](https://portfolio1-chi-lime.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **anmoltripathi610@gmail.com**
 
